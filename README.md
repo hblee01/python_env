@@ -7,5 +7,5 @@ New repository 생성
 `git remote add origin (github URL path)`
 
 % 3. 강제로 코드 밀어넣기\
-`git push -u origin main`
+`git push -u origin main`\
 (혹은 git push -f origin main)
